@@ -4,7 +4,7 @@
  🤸 Skills: 
  ## HTML, CSS, Bootstrap.
 ✔ Currently studying: 
-## JavaScript, Angular e Kotlin.
+## JavaScript.
 ⚙🛠 Tools: 
 ## Visual Studio Code, Git/GitHub, Android Studio.
  📫 How to reach me:
