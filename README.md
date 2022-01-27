@@ -4,9 +4,9 @@
  🤸 Skills: 
  ## HTML, CSS, Bootstrap.
 ✔ Currently studying: 
-## JavaScript.
+## JavaScript, Python.
 ⚙🛠 Tools: 
-## Visual Studio Code, Git/GitHub, Android Studio.
+## Visual Studio Code, Git/GitHub, Pycharm.
  📫 How to reach me:
  [Linkedin](https://www.linkedin.com/in/ademar-santiago-10641266/)
 
