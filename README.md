@@ -6,7 +6,7 @@
 ✔ Currently studying: 
 ## JavaScript, JAVA, Python.
 ⚙🛠 Tools: 
-## Visual Studio Code, Git/GitHub, Anaconda.
+## Visual Studio Code, Git/GitHub, Eclipse, Anaconda.
  📫 How to reach me:
  [Linkedin](https://www.linkedin.com/in/ademar-santiago-10641266/)
 
