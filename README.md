@@ -4,7 +4,7 @@
  🤸 Skills: 
  ## HTML, CSS.
 ✔ Currently studying: 
-## JavaScript, JAVA, Python.
+## JAVA, JavaScript, Python.
 ⚙🛠 Tools: 
 ## Visual Studio Code, Git/GitHub, Eclipse, Spring, Anaconda.
  📫 How to reach me:
