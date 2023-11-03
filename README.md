@@ -2,7 +2,7 @@
  💻 I’m interested in: 
  ## Linguagem de Programação
  🤸 Skills: 
- ## HTML, CSS.
+ ## HTML, CSS, Java.
 ✔ Currently studying: 
 ## JAVA, JavaScript, Python.
 ⚙🛠 Tools: 
