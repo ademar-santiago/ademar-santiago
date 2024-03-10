@@ -2,11 +2,11 @@
  💻 I’m interested in: 
  ## Linguagem de Programação
  🤸 Skills: 
- ## HTML, CSS, Java.
+ ## HTML, CSS, JavaScript, Java.
 ✔ Currently studying: 
-## JAVA, JavaScript, Python.
+## JAVA.
 ⚙🛠 Tools: 
-## Visual Studio Code, Git/GitHub, Eclipse, Spring, Anaconda.
+## Visual Studio Code, Git/GitHub, Eclipse, Spring.
  📫 How to reach me:
  [Linkedin](https://www.linkedin.com/in/ademar-santiago-10641266/)
 
