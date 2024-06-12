@@ -4,7 +4,7 @@
  🤸 Skills: 
  ## HTML, CSS, JavaScript, Java.
 ✔ Currently studying: 
-## JAVA.
+## Graduação Desenvolvimento Back End.
 ⚙🛠 Tools: 
 ## Visual Studio Code, Git/GitHub, Eclipse, Spring.
  📫 How to reach me:
